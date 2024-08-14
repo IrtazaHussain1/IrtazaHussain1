@@ -3,9 +3,9 @@
 In this Software Industry, I have gained extensive in-depth experience with many tools, programming languages/frameworks, and technologies, which include but are not limited to:
 
 - 💻 Fullstack: Python, Dotnet, and MERN Stack
-- 🤖 Backend: Python, Dotnet, NodeJS and ExpressJS
+- 🤖 Backend: Python, Dotnet, NodeJS and ExpressJS, Solidity
 - 🎨 Frontend: Javascript, JQuery, React JS, Angular JS, HTML5, CSS3, Bootstrap and Tailwind
-- ⛓️ API: RESTful API and GraphQL
+- ⛓️ API: RESTful API and GraphQL, Web3
 - 🔗 Version Control: Git
 - 💾 Storage: MySQL, PostgreSQL, SQLite, Mongo DB, Firestore, and Redis
 - 💻 Cloud: AWS, and Azure
@@ -17,5 +17,4 @@ In this Software Industry, I have gained extensive in-depth experience with many
 
 **Useful Links**:
  - LinkedIn: [Muhammad Irtaza Hussain](https://www.linkedin.com/in/mihussain1/)
- - Website: [Portfolio](https://mihussain.vercel.app/)
- - Website: [Company](https://www.softekton.com/)
+ - Website: [Portfolio](https://irtazahussain.com/)
